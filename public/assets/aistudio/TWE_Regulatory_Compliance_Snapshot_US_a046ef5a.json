@@ -1,0 +1,75 @@
+{
+  "schema": "https://tokenworld.exchange/schemas/regulatory-compliance-snapshot/v1",
+  "exportedAtIso": "2026-11-15T21:52:47.217Z",
+  "tweEnvironmentKeyId": "TWE-KEYSET-2026-GENESIS",
+  "leadSystemsArchitect": "Mauro Lomibao Dar III (TAURUS-1987-05-06)",
+  "jurisdiction": {
+    "unMemberIndex": 1,
+    "countryName": "United States of America",
+    "isoAlpha2Code": "US",
+    "iso3166NumericCode": 840,
+    "continent": "North America",
+    "region": "Americas",
+    "regulatoryTier": "TIER_1"
+  },
+  "complianceMetrics": {
+    "isoCode": "US",
+    "isoNumericCode": 840,
+    "countryName": "United States of America",
+    "continent": "North America",
+    "regulatoryTier": "TIER_1",
+    "complianceStatus": "Fully Compliant",
+    "adoptionVelocityScore": 100,
+    "regulatoryRiskIntensityScore": 16,
+    "regulatoryRiskClassification": "Low Sovereign Risk",
+    "nodeActivationProgressPercent": 100,
+    "automatedKycComplianceEnabled": true,
+    "zkIdentityEnabled": true,
+    "primaryRegulator": "SEC / FINRA",
+    "regulatoryFramework": "SEC Reg ATS (Form ATS-N), Rule 15c3-3, FINRA Rule 4554",
+    "requiredRegulatoryDocs": [
+      "SEC Form ATS-N (17 CFR § 242.304)",
+      "FINRA Rule 4554 CAT Log",
+      "SEC Rule 15c3-3 Custody Attestation",
+      "Form TA-1 Transfer Agent Sync",
+      "Azure HSM FIPS 140-2 L3 Signer"
+    ],
+    "fiatOrCbdcSettlementBridge": "USD / FedNow / USDC-T0",
+    "validatorUptime": "99.986%",
+    "latencyMs": 10,
+    "syncedBlockHeight": 19842103,
+    "lastComplianceAuditIso": "2026-11-05T19:00:00.000Z"
+  },
+  "complianceSnapshot": {
+    "dynamicStatusBadge": "Fully Compliant",
+    "complianceAdoptionVelocityScore": 100,
+    "regulatoryRiskIntensityScore": 16,
+    "regulatoryRiskClassification": "Low Sovereign Risk",
+    "activeHeatmapMetricMode": "Adoption Velocity",
+    "d3HeatColorHex": "rgb(0, 240, 255)",
+    "automatedKycComplianceEnabled": true,
+    "zkIdentityEnabled": true,
+    "primaryRegulator": "SEC / FINRA",
+    "regulatoryFramework": "SEC Reg ATS (Form ATS-N), Rule 15c3-3, FINRA Rule 4554",
+    "onboardingComplianceRule": "Full EDGAR/Form ATS-N sync, automated KYC/AML, accredited investor status verification, and real-time transaction reporting.",
+    "requiredRegulatoryDocs": [
+      "SEC Form ATS-N (17 CFR § 242.304)",
+      "FINRA Rule 4554 CAT Log",
+      "SEC Rule 15c3-3 Custody Attestation",
+      "Form TA-1 Transfer Agent Sync",
+      "Azure HSM FIPS 140-2 L3 Signer"
+    ],
+    "fiatOrCbdcSettlementBridge": "USD / FedNow / USDC-T0",
+    "lastComplianceAuditIso": "2026-11-05T19:00:00.000Z"
+  },
+  "nodeActivationTelemetry": {
+    "nodeId": "TWE-SGX-US-840",
+    "nodeStatus": "ACTIVE_VALIDATOR",
+    "activationProgressPercent": 100,
+    "azureConfidentialEnclaveZone": "Azure East US 2 Confidential SGX Enclave",
+    "hsmKeySlot": "FIPS-140-2-L3-HSM-840",
+    "validatorUptime": "99.986%",
+    "latencyMs": 10,
+    "syncedBlockHeight": 19842103
+  }
+}

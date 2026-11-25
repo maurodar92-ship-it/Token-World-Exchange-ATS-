@@ -1,0 +1,6 @@
+"date","wallet_address","chain_id","contract_address","protocol_group","protocol_sub_group","token_address","token_name","token_price_usd","token_amount","token_value_usd","reward_token_amount","reward_token_value_usd"
+"2026-11-16","0x70ac9bb89d5c3d4a47d5cd11b108fea9ad4e94f0",1,"0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce","erc20",,"0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce","SHIBA INU",3.917226686596046e-6,610509.0992495386,2.3915025359900066,,
+"2026-11-16","0x70ac9bb89d5c3d4a47d5cd11b108fea9ad4e94f0",1,"0x2b591e99afe9f32eaa6214f7b7629768c40eeb39","erc20",,"0x2b591e99afe9f32eaa6214f7b7629768c40eeb39","HEX",0.0004862104413831638,1895.0,0.9213687864210954,,
+"2026-11-16","0x70ac9bb89d5c3d4a47d5cd11b108fea9ad4e94f0",1,"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2","erc20",,"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2","Wrapped Ether",1823.2921321107117,0.00003734340835571,0.06808794264116345,,
+"2026-11-16","0x70ac9bb89d5c3d4a47d5cd11b108fea9ad4e94f0",1,"0xd4419c2d3daa986dc30444fa333a846be44fd1eb","erc20",,"0xd4419c2d3daa986dc30444fa333a846be44fd1eb","ZIK coin",0.00009965343503671458,222.0,0.022123062578150637,,
+"2026-11-16","0x70ac9bb89d5c3d4a47d5cd11b108fea9ad4e94f0",1,"0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee","native",,"0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee","Ether",1823.2921321107117,6.319001753588e-6,0.01152138618011079,,
